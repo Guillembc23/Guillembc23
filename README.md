@@ -6,12 +6,6 @@
 
 ---
 
-## 🔬 About Me
-
-I'm a student in the elite CFIS program at UPC, driven by curiosity and the desire to apply mathematics in creative and impactful ways. I enjoy building things from scratch—whether it's a reinforcement learning agent or a data pipeline—and sharing what I learn along the way.
-
----
-
 ## 💻 Selected Projects
 
 - 🧠 **RUSH-7**  
@@ -43,22 +37,6 @@ Several repositories contain well-structured personal notes and summaries:
 - `PIE2` , `IPA`  (Homeworks and projects from statistics courses on GCED)
 - `PRO1`, `PRO2` , `EDA` (Jutge exercises and projects from the FIB programming courses)
 
-
----
-
-## ⚙️ Tools & Languages
-
-- Languages: C++, Python, SQL, R, Java, Shell  
-- Tools: Git, Linux, Jupyter, LaTeX, Spark, AWS  
-- Interests: ML, algorithms, competitive programming, time series
-
----
-
-## 🏆 Highlights
-
-- Bronze medal – IMO 2023  
-- First prize – IMC 2024 (33rd overall)  
-- Multiple awards in national math and physics olympiads  
 
 ---
 
