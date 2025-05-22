@@ -30,7 +30,7 @@ I'm a student in the elite CFIS program at UPC, driven by curiosity and the desi
   Shell scripts and exercises focused on parallel computing on MareNostrum5 and on AWS EC2 services.
 
 - 💻 **Codeforces**  
-  C++ implementations of Codeforces problems on live div.2 and div.1+div.2 rounds performed with my account GuillemBC.
+  C++ implementations of Codeforces problems on a live round, performed with my account GuillemBC.
 
 ---
 
