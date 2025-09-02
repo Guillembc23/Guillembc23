@@ -11,7 +11,7 @@
 - 🧠 **RUSH-7**  
   Reinforcement learning agent that learns to play a custom card game using Q-learning techniques.
 
-- 💻 **Stochastic_Calculus_Simulations**
+- 💻 **Stochastic_Calculus_Simulations**   
   Code I did while learning stochastic calculus. Contains a simulation of a Brownian Bridge throught its SDE and a delta-hedging strategy of an european option over simulated stock that follows a geometric Brownian motion.
 
 - 📈 **TRADING_BACKTESTER**  
