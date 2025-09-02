@@ -11,8 +11,11 @@
 - 🧠 **RUSH-7**  
   Reinforcement learning agent that learns to play a custom card game using Q-learning techniques.
 
+- 💻 **Stochastic_Calculus_Simulations**
+  Code I did while learning stochastic calculus. Contains a simulation of a Brownian Bridge throught its SDE and a delta-hedging strategy of an european option over simulated stock that follows a geometric Brownian motion.
+
 - 📈 **TRADING_BACKTESTER**  
-  Backtesting engine for evaluating algorithmic trading strategies with historical market data.
+  Backtesting engine for evaluating silly algorithmic trading strategies with historical market data.
 
 - 📊 **DATATHON_2024**  
   Project developed for a data competition; includes exploratory analysis, feature engineering, and predictive modeling.
